@@ -1,22 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="xTheo Labs">
+  <rect width="512" height="512" rx="112.64" fill="#040f22"/>
+  <g transform="translate(255.06 249.40) scale(0.9424)">
   <defs>
-    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#93c5fd"/>
-      <stop offset="0.5" stop-color="#60a5fa"/>
-      <stop offset="1" stop-color="#2563eb"/>
+    <linearGradient id="xtl-stroke" gradientUnits="userSpaceOnUse" x1="-190" y1="-158" x2="171" y2="175">
+      <stop offset="0" stop-color="#77c6fd"/>
+      <stop offset="0.45" stop-color="#388dfd"/>
+      <stop offset="1" stop-color="#065cfe"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.6">
-      <stop offset="0" stop-color="#2563eb" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-  <rect width="512" height="512" rx="112" fill="#0b1220"/>
-  <rect width="512" height="512" rx="112" fill="url(#glow)"/>
-  <!-- The x: one continuous stroke (the idea) crossed by a chain of nodes (the system it becomes). -->
-  <line x1="150" y1="150" x2="362" y2="362" stroke="url(#stroke)" stroke-width="60" stroke-linecap="round"/>
-  <line x1="362" y1="150" x2="150" y2="362" stroke="#60a5fa" stroke-width="22" stroke-linecap="round" stroke-opacity="0.9"/>
-  <circle cx="256" cy="256" r="46" fill="#0b1220"/>
-  <circle cx="256" cy="256" r="26" fill="#e2e8f0"/>
-  <circle cx="362" cy="150" r="34" fill="#0b1220" stroke="#60a5fa" stroke-width="16"/>
-  <circle cx="150" cy="362" r="34" fill="#60a5fa"/>
+  <path d="M-190,-158 L-97,-158 L171,137 C182,150 176,168 160,178 C148,186 130,180 108,162 Z" fill="url(#xtl-stroke)"/>
+  <line x1="-142" y1="138" x2="158" y2="-138" stroke="#eaeff9" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="0" cy="0" r="37" fill="#040f22"/>
+  <circle cx="0" cy="0" r="26" fill="#eaeffa"/>
+  <circle cx="158" cy="-138" r="28.5" fill="#040f22" stroke="#53aff8" stroke-width="11"/>
+  <circle cx="-142" cy="138" r="32" fill="#085dfe"/>
+  </g>
 </svg>
