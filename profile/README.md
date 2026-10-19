@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/xtheo-labs-banner.png" alt="xTheo Labs — Ideas into Systems. Systems into Impact." width="100%">
+  <img src="https://raw.githubusercontent.com/xTheo-Labs/.github/main/profile/assets/xtheo-labs-banner.png" alt="xTheo Labs — Ideas into Systems. Systems into Impact." width="100%">
 </p>
 
 # xTheo Labs
