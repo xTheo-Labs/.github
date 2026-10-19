@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/xTheo-Labs/.github/main/profile/assets/xtheo-labs-banner.png" alt="xTheo Labs — Ideas into Systems. Systems into Impact." width="100%">
 </p>
 
-**xTheo Labs** is the independent product studio of [Harasta Rahman Tri Putra](https://github.com/xtheoputra). We build software for AI, security, and learning, and we ship it with tests, CI, and documentation from the first release.
+**xTheo Labs** is the independent product studio of [Harasta Rahman Tri Putra](https://github.com/xtheoputra). We build software for AI, security, and learning.
 
 ## Products
 
@@ -16,9 +16,9 @@
 
 ## How we build
 
-- **Local-first and private by design** wherever the product allows it: no tracking, and data stays on the device unless the user chooses otherwise.
+- **Local-first where the product allows it.** Silent Tears, Heirst, and Jago Bahasa keep their data on the device, with no accounts required.
 - **Explain, then act.** Our tools show their evidence and ask before they change anything.
-- **Tested and reviewed.** Every product runs its test suite in CI on every change.
+- **Tested.** Every product has an automated test suite, from 161 tests in Jago Bahasa to 1,884 in Silent Tears.
 
 ## Work with us
 
