@@ -2,28 +2,26 @@
   <img src="https://raw.githubusercontent.com/xTheo-Labs/.github/main/profile/assets/xtheo-labs-banner.png" alt="xTheo Labs — Ideas into Systems. Systems into Impact." width="100%">
 </p>
 
-# xTheo Labs
-
-> Ideas into Systems. Systems into Impact.
-
-**xTheo Labs** is the independent product studio of **Harasta Rahman Tri Putra** ([@xtheoputra](https://github.com/xtheoputra)), a System Analyst & Full-Stack Engineer. We build software across web, mobile, and desktop, focused on **AI**, **security**, and **learning**.
+**xTheo Labs** is the independent product studio of [Harasta Rahman Tri Putra](https://github.com/xtheoputra). We build software for AI, security, and learning, and we ship it with tests, CI, and documentation from the first release.
 
 ## Products
 
-| Product | Category | Status | Link |
-|---|---|---|---|
-| **Silent Tears** | Windows · Security monitoring (MITRE ATT&CK, zero telemetry) | Pre-release | https://silent-tears-web.vercel.app/ |
-| **ThinkMate** | AI · Decision support (Web) | Live | https://thinkmate-web.vercel.app/ |
-| **Heirst** | Android · Privacy-first tools | Public beta | https://heirst-web.vercel.app/en |
-| **TechVerse X** | EdTech · Learning platform | Live | https://techverse-x-web.vercel.app/ |
-| **Jago Bahasa** | EdTech · 23-language learning PWA | Live · Open source | https://xtheoputra.github.io/jago-bahasa/ |
+| Product | Category | Status | Website | Overview |
+|---|---|---|---|---|
+| **Silent Tears** | Windows security monitoring | Beta · v0.9.0 | [silent-tears-web.vercel.app](https://silent-tears-web.vercel.app) | [silent-tears](https://github.com/xTheo-Labs/silent-tears) |
+| **ThinkMate** | AI decision support (web) | Beta | [thinkmate-web.vercel.app](https://thinkmate-web.vercel.app) | [thinkmate](https://github.com/xTheo-Labs/thinkmate) |
+| **Heirst** | Android privacy and security tools | Public beta | [heirst-web.vercel.app](https://heirst-web.vercel.app/en) | [heirst](https://github.com/xTheo-Labs/heirst) |
+| **TechVerse X** | Technology learning platform | Alpha | [techverse-x-web.vercel.app](https://techverse-x-web.vercel.app) | [techverse-x](https://github.com/xTheo-Labs/techverse-x) |
+| **Jago Bahasa** | Language learning (PWA) | Beta | [jago-bahasa.vercel.app](https://jago-bahasa.vercel.app) | [jago-bahasa](https://github.com/xTheo-Labs/jago-bahasa) |
 
-## Lab & portfolio
+## How we build
 
-- 🌐 Labs site: https://xtheo-labs.vercel.app
-- 👤 Founder: [@xtheoputra](https://github.com/xtheoputra), *also known as* Harasta Rahman Tri Putra
-- 🏛️ Former handle: [@ataskaters](https://github.com/ataskaters) (2017 archive)
+- **Local-first and private by design** wherever the product allows it: no tracking, and data stays on the device unless the user chooses otherwise.
+- **Explain, then act.** Our tools show their evidence and ask before they change anything.
+- **Tested and reviewed.** Every product runs its test suite in CI on every change.
 
----
+## Work with us
 
-*Building in public. Systems that ship.*
+Product source code is private. For licensing, partnerships, or a private demo, contact **mail.harastaputra@gmail.com**.
+
+[Portfolio](https://xtheo-labs.vercel.app) · [Founder](https://github.com/xtheoputra) · [Blog](https://xtheoputra.github.io/blog/)
