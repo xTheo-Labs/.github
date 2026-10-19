@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/xtheo-labs-banner.png" alt="xTheo Labs — Ideas into Systems. Systems into Impact." width="100%">
+</p>
+
 # xTheo Labs
 
 > Ideas into Systems. Systems into Impact.
